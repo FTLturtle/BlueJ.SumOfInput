@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ sumOfInput()
+comment2.text=\n\ This\ method\ takes\ an\ integer\ as\ input\ from\ the\ user,\ and\n\ returns\ the\ sum\ of\ 1\ to\ that\ integer.\n
+numComments=3
